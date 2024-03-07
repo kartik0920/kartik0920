@@ -91,11 +91,11 @@
 
 <!-- <img align="middle" src="https://wakatime.com/share/@kartik0920/e7c86100-2edc-497d-a49a-d52faf6fdf46.svg" height="300px" width='300px'> -->
 
-<p align="center" >
-<a href="https://github.com/kartik0920">	
+<!-- <p align="center" >
+<a href="https://github.com/kartik0920">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartik0920-mode-only" />
 </a>
-</p>
+</p> -->
 
 <p align="center" >
 <a href="https://github.com/kartik0920">
