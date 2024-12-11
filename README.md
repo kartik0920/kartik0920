@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik0920&show_icons=true&locale=en&theme=tokyonight" alt="kartik0920" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kartik0920&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Kartik Strick](https://streak-stats.demolab.com/?user=kartik0920&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com?user=kartik0920&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
