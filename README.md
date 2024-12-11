@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Kartik Gile</h1>
 <h3 align="center">A passionate ML Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -47,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik0920&show_icons=true&locale=en&theme=tokyonight" alt="kartik0920" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik0920&&theme=tokyonight" alt="kartik0920" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kartik0920&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
