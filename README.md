@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik0920&show_icons=true&locale=en&theme=tokyonight" alt="kartik0920" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kartik0920&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kartik0920&count_private=true&theme=react&border_radius=10" alt="Kartik's Streak Stats"/>
